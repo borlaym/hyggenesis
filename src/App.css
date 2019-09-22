@@ -30,4 +30,13 @@
   border: 2px solid rgb(222, 0, 43);
   height: 90px;
   animation: scrolling 1.5s infinite linear;
+  display: flex;
+  justify-content: stretch;
+  padding: 0 400px;
+}
+
+.subsection {
+  height: 90px;
+  width: 10%;
+  border: 2px solid rgb(222, 0, 43);
 }
