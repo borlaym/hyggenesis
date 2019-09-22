@@ -4,6 +4,7 @@ import './App.css';
 const App: React.FC = () => {
   return (
     <div className="App">
+      <div className="groundCover"></div>
       <div className="ground">
         <div className="section">
           <div className="subsection"></div>
@@ -121,6 +122,7 @@ const App: React.FC = () => {
           <div className="subsection"></div>
         </div>
       </div>
+      <img src="mountains.png" className="mountains"/>
     </div>
   );
 }
