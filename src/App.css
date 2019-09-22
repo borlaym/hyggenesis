@@ -22,6 +22,20 @@
   }
 }
 
+@keyframes mainText {
+  0% {
+    top: 300px;
+  }
+
+  50% {
+    top: 300px;
+  }
+
+  100% {
+    top: 50px;
+  }
+}
+
 .App {
   position: relative;
   perspective: 400px;
@@ -69,5 +83,16 @@
 
 .mountains {
   position: absolute;
-  top: 17px;
+  top: 18px;
+}
+
+h1 {
+  color: white;
+  position: absolute;
+  font-family: 'Righteous', cursive;
+  font-size: 50px;
+  text-align: center;
+  left: 301px;
+  animation: mainText 10s linear;
+  top: 50px;
 }

@@ -4,6 +4,8 @@ import './App.css';
 const App: React.FC = () => {
   return (
     <div className="App">
+      <h1>HYGGENESIS</h1>
+
       <div className="groundCover"></div>
       <div className="ground">
         <div className="section">
