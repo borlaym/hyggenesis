@@ -22,6 +22,20 @@
   }
 }
 
+@keyframes details {
+  0% {
+    top: 300px;
+  }
+
+  85% {
+    top: 300px;
+  }
+
+  100% {
+    top: 120px;
+  }
+}
+
 .App {
   position: relative;
   perspective: 400px;
@@ -80,6 +94,17 @@ h1 {
   left: 301px;
   animation: mainText 28s linear;
   top: 50px;
+}
+
+p {
+  color: white;
+  position: absolute;
+  font-family: 'Righteous', cursive;
+  font-size: 18px;
+  text-align: center;
+  left: 263px;
+  animation: details 32s linear;
+  top: 120px;
 }
 
 @keyframes bop {

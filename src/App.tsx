@@ -5,6 +5,7 @@ const App: React.FC = () => {
   return (
     <div className="App">
       <h1>HYGGENESIS</h1>
+      <p>SZEZONNYITO POT LUCK BANZAJ OKT 26AN</p>
 
       <div className="groundCover"></div>
       
