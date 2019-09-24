@@ -8,7 +8,7 @@
   }
 }
 
-@keyframes skyColor {
+/* @keyframes skyColor {
   0% {
     background-color:  rgb(113, 0, 21);;
   }
@@ -24,9 +24,9 @@
   100% {
     background-color: orange;
   }
-}
+} */
 
-@keyframes sunlight {
+/* @keyframes sunlight {
   0% {
     mask-image: radial-gradient(circle, rgba(0,0,0,0) 0%, rgba(0,0,0,0) 60%, rgba(0,0,0,0) 100%);
   }
@@ -38,14 +38,14 @@
   100% {
     mask-image: radial-gradient(circle, rgba(0,0,0,1) 0%, rgba(0,0,0,0.2) 60%, rgba(0,0,0,0) 100%);
   }
-}
+} */
 
 @keyframes mainText {
   0% {
     top: 300px;
   }
 
-  50% {
+  85% {
     top: 300px;
   }
 
@@ -61,8 +61,8 @@
   height: 800px;
   margin: 0 auto;
   overflow: hidden;
-  background-color: orange;
-  animation: skyColor 10s linear;
+  background-color: rgb(113, 0, 21);
+  /* animation: skyColor 10s linear; */
 }
 
 .ground {
@@ -72,17 +72,6 @@
   background: rgb(44, 0, 8);
   transform: rotateX(60deg) translateX(-550px);
   mask-image: linear-gradient(rgba(0,0,0,0), rgba(0,0,0,1));
-}
-
-.sunlight {
-  width: 350px;
-  height: 700px;
-  position: absolute;
-  top: -200px;
-  left: 825px;
-  background: radial-gradient(circle, orange 0%, black 60%);
-  mask-image: radial-gradient(circle, rgba(0,0,0,1) 0%, rgba(0,0,0,0.2) 60%, rgba(0,0,0,0) 100%);
-  animation: sunlight 10s linear;
 }
 
 .groundCover {
@@ -122,7 +111,7 @@ h1 {
   font-size: 50px;
   text-align: center;
   left: 301px;
-  animation: mainText 10s linear;
+  animation: mainText 28s linear;
   top: 50px;
 }
 
@@ -153,4 +142,51 @@ h1 {
   bottom: 80px;
   width: 100px;
   left: 400px;
+}
+
+
+@keyframes fly {
+  from {
+    transform: translate3d(-300px, -800px, -2000px);
+  }
+
+  to {
+    transform: translate3d(-200px, -100px, 300px);
+  }
+}
+
+@keyframes flyRight {
+  from {
+    transform: translate3d(300px, -800px, -2000px);
+  }
+
+  to {
+    transform: translate3d(200px, -100px, 300px);
+  }
+}
+
+.taboola {
+  position: absolute;
+  bottom: 10px;
+  left: 350px;
+  transform: translate3d(-300px, 100px, 300px);
+  animation: fly 5s ease-out;
+}
+
+.taboola1 {
+  animation-delay: 3s;
+}
+
+.taboola2 {
+  animation: flyRight 5s ease-out;
+  animation-delay: 8s;
+}
+
+.taboola3 {
+  animation-delay: 13s;
+}
+
+.taboola4 {
+  animation: flyRight 5s ease-out;
+  animation-delay: 18s;
 }

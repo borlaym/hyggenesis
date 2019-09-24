@@ -128,6 +128,10 @@ const App: React.FC = () => {
       <img src="mountains.png" className="mountains"/>
       <img src="morcishadow.png" className="morcishadow" />
       <img src="morci.png" className="morci" />
+      <img src="1.png" className="taboola1 taboola" />
+      <img src="2.png" className="taboola2 taboola" />
+      <img src="3.png" className="taboola3 taboola" />
+      <img src="4.png" className="taboola4 taboola" />
     </div>
   );
 }
