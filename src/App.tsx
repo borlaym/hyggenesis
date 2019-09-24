@@ -7,6 +7,7 @@ const App: React.FC = () => {
       <h1>HYGGENESIS</h1>
 
       <div className="groundCover"></div>
+      
       <div className="ground">
         <div className="section">
           <div className="subsection"></div>
@@ -125,6 +126,8 @@ const App: React.FC = () => {
         </div>
       </div>
       <img src="mountains.png" className="mountains"/>
+      <img src="morcishadow.png" className="morcishadow" />
+      <img src="morci.png" className="morci" />
     </div>
   );
 }
