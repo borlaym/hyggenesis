@@ -92,7 +92,7 @@ h1 {
   font-size: 50px;
   text-align: center;
   left: 301px;
-  animation: mainText 28s linear;
+  animation: mainText 34s linear;
   top: 50px;
 }
 
@@ -103,7 +103,7 @@ p {
   font-size: 18px;
   text-align: center;
   left: 263px;
-  animation: details 32s linear;
+  animation: details 37s linear;
   top: 120px;
 }
 
@@ -143,7 +143,7 @@ p {
     opacity: 0;
   }
 
-  20% {
+  30% {
     opacity: 1;
   }
 
@@ -159,7 +159,7 @@ p {
     opacity: 0;
   }
 
-  20% {
+  30% {
     opacity: 1;
   }
 
@@ -174,7 +174,7 @@ p {
   bottom: 10px;
   left: 350px;
   transform: translate3d(-300px, 100px, 300px);
-  animation: fly 5s ease-out;
+  animation: fly 11s ease-out;
   background: black;
 }
 
@@ -183,7 +183,7 @@ p {
 }
 
 .taboola2 {
-  animation: flyRight 5s ease-out;
+  animation: flyRight 11s ease-out;
   animation-delay: 8s;
 }
 
@@ -192,6 +192,6 @@ p {
 }
 
 .taboola4 {
-  animation: flyRight 5s ease-out;
+  animation: flyRight 11s ease-out;
   animation-delay: 18s;
 }
