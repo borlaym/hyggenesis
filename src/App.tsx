@@ -126,13 +126,13 @@ const App: React.FC = () => {
           <div className="subsection"></div>
         </div>
       </div>
-      <img src="%PUBLIC_URL%/mountains.png" className="mountains"/>
-      <img src="%PUBLIC_URL%/morcishadow.png" className="morcishadow" />
-      <img src="%PUBLIC_URL%/morci.png" className="morci" />
-      <img src="%PUBLIC_URL%/1.png" className="taboola1 taboola" />
-      <img src="%PUBLIC_URL%/2.png" className="taboola2 taboola" />
-      <img src="%PUBLIC_URL%/3.png" className="taboola3 taboola" />
-      <img src="%PUBLIC_URL%/4.png" className="taboola4 taboola" />
+      <img src="mountains.png" className="mountains"/>
+      <img src="morcishadow.png" className="morcishadow" />
+      <img src="morci.png" className="morci" />
+      <img src="1.png" className="taboola1 taboola" />
+      <img src="2.png" className="taboola2 taboola" />
+      <img src="3.png" className="taboola3 taboola" />
+      <img src="4.png" className="taboola4 taboola" />
     </div>
   );
 }

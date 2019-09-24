@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a41832755438969f198a0d4e4a8268ad",
+    "revision": "19a84d1e3a02f5fec44f755b62eedecc",
     "url": "/hyggenesis/index.html"
   },
   {
-    "revision": "3f0b5b94d452661ff15b",
+    "revision": "013582020a9619cfa3af",
     "url": "/hyggenesis/static/css/main.2a518f76.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/hyggenesis/static/js/2.8b52e710.chunk.js"
   },
   {
-    "revision": "3f0b5b94d452661ff15b",
-    "url": "/hyggenesis/static/js/main.12c79237.chunk.js"
+    "revision": "013582020a9619cfa3af",
+    "url": "/hyggenesis/static/js/main.50fa8991.chunk.js"
   },
   {
     "revision": "02bbbd75711f77bd8d1a",

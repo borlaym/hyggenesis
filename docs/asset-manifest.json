@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/hyggenesis/static/css/main.2a518f76.chunk.css",
-    "main.js": "/hyggenesis/static/js/main.12c79237.chunk.js",
-    "main.js.map": "/hyggenesis/static/js/main.12c79237.chunk.js.map",
+    "main.js": "/hyggenesis/static/js/main.50fa8991.chunk.js",
+    "main.js.map": "/hyggenesis/static/js/main.50fa8991.chunk.js.map",
     "runtime-main.js": "/hyggenesis/static/js/runtime-main.135d2cce.js",
     "runtime-main.js.map": "/hyggenesis/static/js/runtime-main.135d2cce.js.map",
     "static/js/2.8b52e710.chunk.js": "/hyggenesis/static/js/2.8b52e710.chunk.js",
     "static/js/2.8b52e710.chunk.js.map": "/hyggenesis/static/js/2.8b52e710.chunk.js.map",
     "index.html": "/hyggenesis/index.html",
-    "precache-manifest.3197ef92f2f8ffc53eed034cd4516317.js": "/hyggenesis/precache-manifest.3197ef92f2f8ffc53eed034cd4516317.js",
+    "precache-manifest.cd4d8ec003d36ca694a77625b5f46c9e.js": "/hyggenesis/precache-manifest.cd4d8ec003d36ca694a77625b5f46c9e.js",
     "service-worker.js": "/hyggenesis/service-worker.js",
     "static/css/main.2a518f76.chunk.css.map": "/hyggenesis/static/css/main.2a518f76.chunk.css.map"
   }
