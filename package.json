@@ -12,6 +12,7 @@
     "react-scripts": "3.1.2",
     "typescript": "3.6.3"
   },
+  "homepage": "http://borlaym.github.io/hyggenesis",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",

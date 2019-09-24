@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.2a518f76.chunk.css",
-    "main.js": "/static/js/main.7335ffaa.chunk.js",
-    "main.js.map": "/static/js/main.7335ffaa.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.2f5284d7.js",
-    "runtime-main.js.map": "/static/js/runtime-main.2f5284d7.js.map",
-    "static/js/2.8b52e710.chunk.js": "/static/js/2.8b52e710.chunk.js",
-    "static/js/2.8b52e710.chunk.js.map": "/static/js/2.8b52e710.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.f0d0482eb676d7fe41b1bb4a7b1debd4.js": "/precache-manifest.f0d0482eb676d7fe41b1bb4a7b1debd4.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.2a518f76.chunk.css.map": "/static/css/main.2a518f76.chunk.css.map"
+    "main.css": "/hyggenesis/static/css/main.2a518f76.chunk.css",
+    "main.js": "/hyggenesis/static/js/main.12c79237.chunk.js",
+    "main.js.map": "/hyggenesis/static/js/main.12c79237.chunk.js.map",
+    "runtime-main.js": "/hyggenesis/static/js/runtime-main.135d2cce.js",
+    "runtime-main.js.map": "/hyggenesis/static/js/runtime-main.135d2cce.js.map",
+    "static/js/2.8b52e710.chunk.js": "/hyggenesis/static/js/2.8b52e710.chunk.js",
+    "static/js/2.8b52e710.chunk.js.map": "/hyggenesis/static/js/2.8b52e710.chunk.js.map",
+    "index.html": "/hyggenesis/index.html",
+    "precache-manifest.3197ef92f2f8ffc53eed034cd4516317.js": "/hyggenesis/precache-manifest.3197ef92f2f8ffc53eed034cd4516317.js",
+    "service-worker.js": "/hyggenesis/service-worker.js",
+    "static/css/main.2a518f76.chunk.css.map": "/hyggenesis/static/css/main.2a518f76.chunk.css.map"
   }
 }
