@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "19a84d1e3a02f5fec44f755b62eedecc",
+    "revision": "b9c089d844c0440eb6960dbe23c07427",
     "url": "/hyggenesis/index.html"
   },
   {
-    "revision": "013582020a9619cfa3af",
-    "url": "/hyggenesis/static/css/main.2a518f76.chunk.css"
+    "revision": "5500fb950ab84f292ffd",
+    "url": "/hyggenesis/static/css/main.902c1d33.chunk.css"
   },
   {
     "revision": "4c6301cd9f5098120f48",
     "url": "/hyggenesis/static/js/2.8b52e710.chunk.js"
   },
   {
-    "revision": "013582020a9619cfa3af",
+    "revision": "5500fb950ab84f292ffd",
     "url": "/hyggenesis/static/js/main.50fa8991.chunk.js"
   },
   {
